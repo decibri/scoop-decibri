@@ -12,3 +12,4 @@ scoop install decibri-cli
 ## Available tools
 
 - `decibri-cli` , audio capture, playback, and device listing from the terminal.
+
