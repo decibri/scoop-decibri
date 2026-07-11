@@ -1,0 +1,20 @@
+# Local operations notes (machine-local, not published)
+CLAUDE.local.md
+
+# Verification scratch: release assets downloaded to check hashes.
+# The bucket only holds manifests; it never commits binaries or archives.
+*.zip
+*.exe
+*.tar.gz
+SHA256SUMS
+
+# Editor and IDE
+.vscode/
+.idea/
+*.swp
+*~
+
+# OS cruft
+.DS_Store
+Thumbs.db
+Desktop.ini
