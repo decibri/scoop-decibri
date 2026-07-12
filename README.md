@@ -15,3 +15,5 @@ scoop install decibri-cli
 
 
 ## Install scoop (only need to do this once)
+
+Step 1
